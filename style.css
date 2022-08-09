@@ -97,6 +97,7 @@ html, body {
 	.card-image {
 		height: 40%;
 		border-radius: 5px 5px 0 0;
+		background-image: url('images/image-header-mobile.jpg');
 	}
 
 	.main-paragraph {
